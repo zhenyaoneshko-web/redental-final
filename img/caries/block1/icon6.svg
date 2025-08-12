@@ -1,0 +1,42 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="32" fill="#25452D"/>
+<g opacity="0.9" clip-path="url(#clip0_513_4018)">
+<mask id="mask0_513_4018" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="17" y="30" width="30" height="20">
+<path d="M17 32.3251C17 31.3171 17.8171 30.5 18.8251 30.5H18.9433C20.1955 30.5 21.3181 31.2722 21.7658 32.4417C22.6148 34.6595 24.9715 35.9092 27.2837 35.3679L30.5985 34.5918C31.5205 34.3759 32.4798 34.3745 33.4024 34.5877L36.8974 35.3951C39.1601 35.9178 41.4517 34.6456 42.2047 32.4489C42.6043 31.2831 43.7006 30.5 44.9329 30.5H45.0974C46.127 30.5 46.9417 31.3711 46.873 32.3983L46.4359 38.9331C46.0193 45.1612 40.846 50 34.6041 50H29.4432C23.1618 50 17.9433 45.156 17.4764 38.8919L17 32.5V32.3251Z" fill="url(#paint0_linear_513_4018)"/>
+</mask>
+<g mask="url(#mask0_513_4018)">
+<rect x="17" y="30.5" width="30" height="19.5" fill="#F7A6A5"/>
+<rect opacity="0.6" x="26" y="34.7198" width="11.5" height="9.28015" fill="url(#paint1_linear_513_4018)"/>
+<rect opacity="0.6" x="20.4229" y="27.7422" width="15.9231" height="5.20902" transform="rotate(56.2075 20.4229 27.7422)" fill="url(#paint2_linear_513_4018)"/>
+<rect opacity="0.6" width="15.9231" height="4.09679" transform="matrix(-0.534394 0.845236 0.845236 0.534394 43.999 28.5607)" fill="url(#paint3_linear_513_4018)"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.5143 17.0588C33.473 17.9279 30.5269 17.9279 28.4857 17.0588C26.8272 16.3526 24.972 16.2871 23.2603 17.0271C19.648 18.5887 18.0278 23.1522 19.6 27.2689C19.6004 27.2698 19.6004 27.2708 19.6 27.2717L20.0906 28.332C21.7491 31.9161 22.9992 35.6733 23.8177 39.5335L24.5963 43.2056C24.8657 44.2612 25.8178 45 26.9088 45C28.0806 45 29.079 44.1506 29.2651 42.9954L30.3627 36.1798C30.4919 35.377 31.1857 34.7868 32 34.7868C32.8143 34.7868 33.5081 35.377 33.6374 36.1798L34.7349 42.9954C34.921 44.1506 35.9194 45 37.0912 45C38.1822 45 39.1343 44.2612 39.4037 43.2056L40.1823 39.5335C41.0008 35.6733 42.2509 31.9161 43.9094 28.332L44.4 27.2717C44.3996 27.2708 44.3996 27.2698 44.4 27.2689C45.9722 23.1522 44.352 18.5887 40.7397 17.0271C39.028 16.2871 37.1728 16.3526 35.5143 17.0588Z" fill="url(#paint4_linear_513_4018)"/>
+<path d="M32.5005 23.4997C30.9005 21.8997 34.1672 20.4997 36.0005 19.9997C39.248 18.4997 38.0005 21.9997 39.0005 23.4997C40.0005 24.9997 40.5005 22.4997 41.5005 25.9997C42.5005 29.4997 38.5005 30.9997 39.0005 28.4997C39.5005 25.9997 38.0005 27.4997 36.5005 24.9997C35.0005 22.4997 34.5005 25.4997 32.5005 23.4997Z" fill="#FFFEFC"/>
+<path d="M25.5626 27.458C26.9721 29.5824 25.0158 28.7622 24.5743 31.6441C24.8829 33.7947 25.6568 35.7514 26.0052 36.461C26.5002 37.4687 28.0001 34.5 27.4562 32.0855C27.06 30.3268 29.2232 32.443 28.8231 28.8249C28.4231 25.2069 24.153 25.3336 25.5626 27.458Z" fill="#FFFEFC"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_513_4018" x1="32" y1="30.5" x2="32" y2="50" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F7A6A5"/>
+<stop offset="1" stop-color="#F7A6A5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_513_4018" x1="31.75" y1="34.7198" x2="31.75" y2="44" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E78180"/>
+<stop offset="1" stop-color="#E78180" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_513_4018" x1="28.3844" y1="27.7422" x2="28.3844" y2="32.9512" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E78180"/>
+<stop offset="1" stop-color="#E78180" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear_513_4018" x1="7.96154" y1="0" x2="7.96154" y2="4.09679" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E78180"/>
+<stop offset="1" stop-color="#E78180" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint4_linear_513_4018" x1="22.4412" y1="16.5" x2="37.972" y2="43.9424" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0F6F9"/>
+<stop offset="1" stop-color="#CDDFF2"/>
+</linearGradient>
+<clipPath id="clip0_513_4018">
+<rect width="40" height="35" fill="white" transform="translate(12 16)"/>
+</clipPath>
+</defs>
+</svg>
